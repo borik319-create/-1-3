@@ -12,7 +12,7 @@ namespace ЛР1__3
         {
             Console.Write("Введите пол: ");
             string g = Console.ReadLine().ToLower();
-
+            //первый комментарий
             if (g == "м")
             {
                 Console.WriteLine("Возможные мужские имена: ");
