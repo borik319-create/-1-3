@@ -27,6 +27,7 @@ namespace ЛР1__3
                 Console.WriteLine("Екатирина");
                 Console.WriteLine("Татьяна");
             }
+            //вывод сообщения в неккоректном вводе
             else
             {
                 Console.WriteLine("Некорректный ввод. Введите 'м' или 'ж' ");
